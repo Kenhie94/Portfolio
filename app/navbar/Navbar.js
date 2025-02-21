@@ -52,7 +52,7 @@ export default function Navbar() {
                 </Link>
               </li>
               <li className="buttonRepo nav item d-flex justify-content-center align-items-center">
-                <Link className="buttonLink" href="https://github.com/Kenhie94/kenjyjap.github.io">
+                <Link className="buttonLink" href="https://github.com/Kenhie94/Portfolio">
                   <FaStar />
                   {`or\u00A0`}
                   <FaCodeBranch />
