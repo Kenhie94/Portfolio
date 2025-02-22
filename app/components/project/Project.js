@@ -30,8 +30,8 @@ const projects = [
     demo: "https://kenhie94.github.io/Birdle/",
   },
   {
-    title: "Portfolio",
-    description: "Built in React, this portfolio website is built to last and showcase my best work and skills. Thanks for checking it out!",
+    title: "MangaStash",
+    description: "Explore and discover new manga effortlessly with this web app powered by the MAL API, allowing you to search, track, and store your favorite titles in your personalized database.",
     image: "/images/gif/Portfolio.gif",
     github: "https://github.com/Kenhie94/Portfolio",
     demo: "https://kenjyjap.com",
@@ -42,6 +42,13 @@ const projects = [
     image: "/images/gif/Portfolio.gif",
     github: "https://github.com/Kenhie94/YelpCamp",
     demo: "https://yelpcamp-uhu4.onrender.com/",
+  },
+  {
+    title: "Portfolio",
+    description: "Built in React, this portfolio website is built to last and showcase my best work and skills. Thanks for checking it out!",
+    image: "/images/gif/Portfolio.gif",
+    github: "https://github.com/Kenhie94/Portfolio",
+    demo: "https://kenjyjap.com",
   },
 ];
 
@@ -81,14 +88,7 @@ export default function Projects() {
           <div className={"card comingSoonCard"}>
             <h3>More Projects Coming Soon...</h3>
             <p>Stay tuned!</p>
-            <div className="d-flex justify-content-center gap-3">
-              <Link href="https://github.com/Kenhie94/kenjyjap.github.io" className="link">
-                <FaGithub /> See on GitHub
-              </Link>
-              <Link href="#" className="link">
-                <FaGlobe /> Try it Out
-              </Link>
-            </div>
+            <div className="d-flex justify-content-center gap-3"></div>
           </div>
         </div>
       </div>
