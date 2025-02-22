@@ -45,19 +45,6 @@ export default function About() {
 
       <div id="resume" className="container aboutContainer d-flex flex-row align-items-center justify-content-between">
         <div className="textContent d-flex flex-column">
-          <h1>Education</h1>
-          <div className="timeline">
-            {/* <!-- Education Item --> */}
-            <div className="timelineItem">
-              <div className="timelineIcon"></div>
-              <div className="timelineContent">
-                <h3>
-                  UX/UI Software Development Boot Camp <span className="company">@Univeristy of Irvine</span>
-                </h3>
-                <p className="date">August 2024 - November 2024</p>
-              </div>
-            </div>
-          </div>
           <h1 className="sectionTitle">Experience</h1>
           <div className="timeline">
             {/* <!-- Experience Item 1 --> */}
@@ -92,7 +79,7 @@ export default function About() {
                 </ul>
                 <h4>TamaPudgy</h4>
                 <ul>
-                  <li>Developed TomoPudgy, a full-stack MERN (MongoDB, Express, React, Node.js) web application designed to assist users on their fitness and weight loss journey.</li>
+                  <li>Developed TamaPudgy, a full-stack MERN (MongoDB, Express, React, Node.js) web application designed to assist users on their fitness and weight loss journey.</li>
                   <li>
                     Engineered an interactive diet tracking system, where a Tamagotchi-inspired virtual companion visually reflects users’ progress by gaining or losing weight based on daily caloric
                     intake.
@@ -101,22 +88,19 @@ export default function About() {
                 </ul>
               </div>
             </div>
-
-            {/* <!-- Experience Item 3 -->
-            <div className="timeline-item">
-              <div className="timeline-icon"></div>
-              <div className="timeline-content">
+          </div>
+          <h1>Education</h1>
+          <div className="timeline">
+            {/* <!-- Education Item --> */}
+            <div className="timelineItem">
+              <div className="timelineIcon"></div>
+              <div className="timelineContent">
                 <h3>
-                  Networking & Marketing Coordinator <span className="company">Akupara Games</span>
+                  UX/UI Software Development Boot Camp <span className="company">@Univeristy of Irvine</span>
                 </h3>
-                <p className="date">August 2020 - December 2020</p>
-                <ul>
-                  <li>Contributed to the strategic design enhancement of the website to optimize user engagement and promote increased interaction.</li>
-                  <li>Collaborated with the development team to offer valuable insights into gameplay enhancement and effective marketing strategies.</li>
-                  <li>Orchestrated and managed a high-impact live online streaming event.</li>
-                </ul>
+                <p className="date">August 2024 - November 2024</p>
               </div>
-            </div> */}
+            </div>
           </div>
         </div>
         <div className="imageContainer">
