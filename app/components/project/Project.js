@@ -32,7 +32,7 @@ const projects = [
   {
     title: "Portfolio",
     description: "Built in React, this portfolio website is built to last and showcase my best work and skills. Thanks for checking it out!",
-    image: "/images/portfolio.png",
+    image: "/images/gif/Portfolio.gif",
     github: "https://github.com/example/portfolio",
     demo: "#",
   },
