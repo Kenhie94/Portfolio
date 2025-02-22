@@ -15,12 +15,12 @@ const projects = [
     demo: "#",
   },
   {
-    title: "TomoPudgy",
+    title: "TamaPudgy",
     description:
       "A fun and interactive daily caloric tracker where your TamaPudgy, a virtual companion, gains or loses weight based on your real-life eating habits, encouraging healthier choices through gamification.",
     image: "/images/gif/TomoPudgy.gif",
     github: "https://github.com/anthonymoon2/TomoPudgy",
-    demo: "#",
+    demo: "https://tomopudgy.onrender.com/",
   },
   {
     title: "Birdle",
@@ -33,8 +33,15 @@ const projects = [
     title: "Portfolio",
     description: "Built in React, this portfolio website is built to last and showcase my best work and skills. Thanks for checking it out!",
     image: "/images/gif/Portfolio.gif",
-    github: "https://github.com/example/portfolio",
+    github: "https://github.com/Kenhie94/Portfolio",
     demo: "https://kenjyjap.com",
+  },
+  {
+    title: "Yelpcamp",
+    description: "Discover and share campgrounds with user reviews, interactive maps, authentication, and a dynamic commenting system.",
+    image: "/images/gif/Portfolio.gif",
+    github: "https://github.com/Kenhie94/YelpCamp",
+    demo: "https://yelpcamp-uhu4.onrender.com/",
   },
 ];
 
