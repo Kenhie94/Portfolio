@@ -26,11 +26,11 @@ export default function About() {
           <p>Outside of technology, I enjoy rock climbing, camping, and exploring live music. I am also an avid gamer with a deep interest in FPS, MMORPGs, and TCG/Board Games.</p>
           <p>
             If you’d like to connect, feel free to reach out to me on{" "}
-            <span>
+            <span className="spanLink">
               <a href="https://www.linkedin.com/in/kenjyjap/">LinkedIn</a>
             </span>{" "}
             or{" "}
-            <span>
+            <span className="spanLink">
               <a href="https://github.com/Kenhie94">GitHub</a>
             </span>
             . You can also contact me via email at <strong>kenhiebusiness@gmail.com</strong>.

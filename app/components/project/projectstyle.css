@@ -47,7 +47,7 @@
 
 .link {
   text-decoration: none;
-  color: #b48ede;
+  color: rgb(175, 50, 250);
   font-weight: bold;
   transition: color 0.3s;
 }
