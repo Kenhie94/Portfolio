@@ -1,5 +1,5 @@
 span {
-  color: rgb(175, 50, 250);
+  color: #b48ede;
 }
 
 a {
@@ -8,6 +8,10 @@ a {
 
 p {
   font-size: larger;
+}
+
+.spanLink {
+  text-decoration: underline;
 }
 
 /* Ensure the about section is properly aligned */
