@@ -71,13 +71,13 @@ export default function About() {
                   Software Developer <span className="company">@UX/UI Boot Camp</span>
                 </h3>
                 <p className="date">August 2024 - November 2024</p>
-                <h4>Birdle</h4>
+                <h4><span>Birdle</span></h4>
                 <ul>
                   <li>Led a three-person development team in designing and building a web-based game application.</li>
                   <li>Developed a Wordle-inspired game using JavaScript, HTML, and CSS, focusing on responsive design and user-friendly gameplay mechanics.</li>
                   <li>Implemented game logic and state management, ensuring smooth interactivity and real-time feedback.</li>
                 </ul>
-                <h4>TamaPudgy</h4>
+                <h4><span>TamaPudgy</span></h4>
                 <ul>
                   <li>Developed TamaPudgy, a full-stack MERN (MongoDB, Express, React, Node.js) web application designed to assist users on their fitness and weight loss journey.</li>
                   <li>
