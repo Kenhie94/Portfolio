@@ -39,7 +39,7 @@ const projects = [
   {
     title: "Yelpcamp",
     description: "Discover and share campgrounds with user reviews, interactive maps, authentication, and a dynamic commenting system.",
-    image: "/images/gif/Portfolio.gif",
+    image: "/images/gif/Yelpcamp.gif",
     github: "https://github.com/Kenhie94/YelpCamp",
     demo: "https://yelpcamp-uhu4.onrender.com/",
   },
