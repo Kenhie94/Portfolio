@@ -32,7 +32,7 @@ const projects = [
   {
     title: "MangaStash",
     description: "Explore and discover new manga effortlessly with this web app powered by the MAL API, allowing you to search, track, and store your favorite titles in your personalized database.",
-    image: "/images/gif/Portfolio.gif",
+    image: "/images/gif/MangaStash.gif",
     github: "https://github.com/Kenhie94/Portfolio",
     demo: "https://kenjyjap.com",
   },
