@@ -30,13 +30,6 @@ const projects = [
     demo: "https://kenhie94.github.io/Birdle/",
   },
   {
-    title: "MangaStash",
-    description: "Explore and discover new manga effortlessly with this web app powered by the MAL API, allowing you to search, track, and store your favorite titles in your personalized database.",
-    image: "/images/gif/MangaStash.gif",
-    github: "https://github.com/Kenhie94/Portfolio",
-    demo: "https://kenjyjap.com",
-  },
-  {
     title: "Yelpcamp",
     description: "Discover and share campgrounds with user reviews, interactive maps, authentication, and a dynamic commenting system.",
     image: "/images/gif/Yelpcamp.gif",
