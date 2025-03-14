@@ -4,7 +4,7 @@
   align-items: center;
   justify-content: space-between;
   gap: 50px; /* Adjust spacing between text and image */
-  padding: 50px;
+  padding-left: 50px;
 }
 
 .projectBox {

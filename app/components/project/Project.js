@@ -48,7 +48,7 @@ const projects = [
 export default function Projects() {
   return (
     <div>
-      <div id="about" className="container projectContainer d-flex flex-row align-items-center justify-content-between">
+      <div id="about" className="container projectContainer mt-5">
         <h1>Projects</h1>
       </div>
       <div id="projects" className="projectBox container">
