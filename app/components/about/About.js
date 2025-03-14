@@ -8,22 +8,20 @@ export default function About() {
         <div className="textContent d-flex flex-column">
           <h1>About Me</h1>
           <p>
-            Hello! My name is <span>Kenjy</span>, and I am a Full-Stack Developer based in California. I have a deep passion for problem-solving, coding, and leveraging technology to build impactful
-            solutions.
+            Hey there! I'm <span>Kenjy</span>, a Full-Stacked Developer from California who loves problem-solving, coding, and using tech to build cool and meaningful stuff.
           </p>
           <p>
-            My interests continuously evolve with my environment, and currently, I am particularly fascinated by <span>Next.js</span>. I thrive on learning new technologies and frameworks, always
-            seeking opportunities to enhance my skills and stay ahead in the ever-changing tech landscape.
+            I'm always diving into new technologies, and right now, I'm really into <span>Next.js</span>. I love learning, experiementing with different frameworks, and keeping up with the
+            ever-changing world of web development.
           </p>
           <p>
-            I am a highly motivated and fast learner, always driven by clear goals. Collaborating with like-minded, passionate developers inspires me to push boundaries, ask insightful questions, and
-            continuously refine my craft. I take pride in my ability to <span>adapt</span> quickly, <span>improve</span> processes, and <span>deliver</span> high-quality work on time.
+            I'm a fast learner and super motivate when I have a goal in sight. Working with passionate developers keep me inspired to push my limits, ask good questions, and improve my skills. I also
+            enjoy working in teams, building a positive environment, and sharing knowledge along the way.
           </p>
           <p>
-            Beyond just coding, I have a strong appreciation for <span>communication</span>, <span>mentorship</span>, and building meaningful <span>relationships</span>. I am a firm believer in
-            teamwork, fostering a positive work culture, and encouraging innovation within any environment.
+            Outside of coding, you'll probably find me rock climbing, camping, or jamming to live music. I'm also a huge gamer—whether it's FPS, MMORPGs, or TCG/Board Games, I'm always down for a good
+            match.
           </p>
-          <p>Outside of technology, I enjoy rock climbing, camping, and exploring live music. I am also an avid gamer with a deep interest in FPS, MMORPGs, and TCG/Board Games.</p>
           <p>
             If you’d like to connect, feel free to reach out to me on{" "}
             <span className="spanLink">
@@ -33,13 +31,13 @@ export default function About() {
             <span className="spanLink">
               <a href="https://github.com/Kenhie94">GitHub</a>
             </span>
-            . You can also contact me via email at <strong>kenhiebusiness@gmail.com</strong>.
+            . You can also contact me via email at <strong>kenhiebusiness@gmail.com</strong>. Let's chat!
           </p>
         </div>
 
         {/* Right Side - Image */}
         <div className="imageContainer">
-          <img src="/images/profile-picture.jpg" alt="Kenjy Jap" className="profileImage" />
+          <img src="/images/Profile_02.jpg" alt="Kenjy Jap" className="profileImage" />
         </div>
       </div>
 
@@ -83,12 +81,12 @@ export default function About() {
                   <span>TamaPudgy</span>
                 </h4>
                 <ul>
-                  <li>Developed TamaPudgy, a full-stack MERN (MongoDB, Express, React, Node.js) web application designed to assist users on their fitness and weight loss journey.</li>
                   <li>
-                    Engineered an interactive diet tracking system, where a Tamagotchi-inspired virtual companion visually reflects users’ progress by gaining or losing weight based on daily caloric
+                    Developed TamaPudgy, a full-stack MERN web app that gamifies fitness tracking, featuring a Tamagotchi-inspired companion that gains or loses weight based on users' daily caloric
                     intake.
                   </li>
-                  <li>Enhanced data accuracy and real-time tracking by integrating API calls, ensuring up-to-date food and calorie information retrieval.</li>
+                  <li>Designed and developed the TamaPudgy UI using Tailwind CSS, leveraging its utility-first approach to create a visually appealing and responsive user experience.</li>
+                  <li>Implemented a robust backend system to securely manage user data, track progress, and optimize performance for a seamless fitness tracking experience.</li>
                 </ul>
               </div>
             </div>
