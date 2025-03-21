@@ -100,8 +100,8 @@ export default function About() {
                 </h3>
                 <p className="date">June 2024 - July 2024</p>
                 <ul>
-                  <li>Developed a campground review app using JavaScript and EJS, enabling users to create and explore campgrounds across the USA.</li>
-                  <li>Integrated API calls and Cloudinary for efficient image storage and management.</li>
+                  <li>Developed a campground review app using JavaScript and EJS, enabling users to create and explore campgrounds across the US.</li>
+                  <li>Integrated Cloudinary for efficient image storage and management.</li>
                   <li>Implemented a dynamic rating system with user authentication and personalized review listings.</li>
                 </ul>
               </div>
