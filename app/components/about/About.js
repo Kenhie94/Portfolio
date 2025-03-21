@@ -1,5 +1,9 @@
 import "./aboutstyle.css";
 
+import React from "react";
+import { Carousel } from "react-responsive-carousel";
+import "react-responsive-carousel/lib/styles/carousel.min.css"; // Import carousel styles
+
 export default function About() {
   return (
     <div>
@@ -121,8 +125,19 @@ export default function About() {
             </div>
           </div>
         </div>
-        <div className="imageContainer">
-          <img src="/images/UCI-bootcamp-certification.jpg" alt="Kenjy Jap" className="resumeImage" />
+        <div className="carousel-container">
+          <Carousel showThumbs={false} showStatus={false} infiniteLoop>
+
+            {/* Image 1 */}
+            <div className="imageContainer">
+              <img src="/images/Resume.jpg" alt="Another Certification" className="carouselImage" />
+            </div>
+
+            {/* Image 2 */}
+            <div className="imageContainer">
+              <img src="/images/UCI-bootcamp-certification.jpg" alt="Kenjy Jap Certification" className="carouselImage" />
+            </div>
+          </Carousel>
         </div>
       </div>
     </div>
