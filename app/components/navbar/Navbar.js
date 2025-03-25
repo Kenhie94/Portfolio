@@ -26,7 +26,7 @@ export default function Navbar() {
           </Link>
           {/* Right Side - Navigation Links */}
           <div className="d-flex align-items-center">
-            <ul className="navbar-nav navbarNav d-flex flex-row gap-4 fs-4 fw-bold align-items-center">
+            <ul className="navbar-nav d-flex flex-row gap-4 fs-4 fw-bold align-items-center">
               <li className="nav item">
                 <Link className="navLink" href="#hero">
                   <FaHome className="pb-1" onClick={() => scrollToSection("hero")} style={{ cursor: "pointer" }} /> Home
