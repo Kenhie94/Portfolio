@@ -15,11 +15,10 @@ export default function About() {
             Hey there! I'm <span>Kenjy</span>, a Full-Stacked Developer from California who loves problem-solving, coding, and using tech to build cool and meaningful stuff.
           </p>
           <p>
-            I'm always diving into new technologies, and right now, I'm really into <span>Next.js</span>. I love learning, experiementing with different frameworks, and keeping up with the
-            ever-changing world of web development.
+          I'm always diving into new technologies, and right now, I'm really into <span>Next.js</span>. I love learning, experimenting with different frameworks, and keeping up with the ever-changing world of web development.
           </p>
           <p>
-            I'm a fast learner and super motivate when I have a goal in sight. Working with passionate developers keep me inspired to push my limits, ask good questions, and improve my skills. I also
+            I'm a fast learner and super motivated when I have a goal in sight. Working with passionate developers keep me inspired to push my limits, ask good questions, and improve my skills. I also
             enjoy working in teams, building a positive environment, and sharing knowledge along the way.
           </p>
           <p>
@@ -118,7 +117,7 @@ export default function About() {
               <div className="timelineIcon"></div>
               <div className="timelineContent">
                 <h3>
-                  UX/UI Software Development Boot Camp <span className="company">@Univeristy of Irvine</span>
+                  UX/UI Software Development Boot Camp <span className="company">@University of Irvine</span>
                 </h3>
                 <p className="date">August 2024 - November 2024</p>
               </div>
@@ -127,7 +126,6 @@ export default function About() {
         </div>
         <div className="carousel-container">
           <Carousel showThumbs={false} showStatus={false} infiniteLoop>
-
             {/* Image 1 */}
             <div className="imageContainer">
               <img src="/images/Resume.jpg" alt="Another Certification" className="carouselImage" />
