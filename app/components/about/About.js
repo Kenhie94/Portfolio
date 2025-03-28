@@ -12,14 +12,13 @@ export default function About() {
         <div className="textContent d-flex flex-column">
           <h1>About Me</h1>
           <p>
-            Hey there! I'm <span>Kenjy</span>, a Full-Stacked Developer from California who loves problem-solving, coding, and using tech to build cool and meaningful stuff.
+            Hey there! I'm <span>Kenjy</span>, a Full-Stack Developer from California who loves problem-solving, coding, and using tech to build cool and meaningful stuff.
           </p>
           <p>
           I'm always diving into new technologies, and right now, I'm really into <span>Next.js</span>. I love learning, experimenting with different frameworks, and keeping up with the ever-changing world of web development.
           </p>
           <p>
-            I'm a fast learner and super motivated when I have a goal in sight. Working with passionate developers keep me inspired to push my limits, ask good questions, and improve my skills. I also
-            enjoy working in teams, building a positive environment, and sharing knowledge along the way.
+            I'm a fast learner and super motivated when I have a goal in sight. Working with passionate developers keeps me inspired to push my limits, ask meaningful questions, and improve my skills. I am self-motivated but excel equally well in teams, where I can contribute to building a positive and encouraging environment and share knowledge along the way.
           </p>
           <p>
             Outside of coding, you'll probably find me rock climbing, camping, or jamming to live music. I'm also a huge gamer—whether it's FPS, MMORPGs, or TCG/Board Games, I'm always down for a good
@@ -89,7 +88,7 @@ export default function About() {
                     intake.
                   </li>
                   <li>Designed and developed the TamaPudgy UI using Tailwind CSS, leveraging its utility-first approach to create a visually appealing and responsive user experience.</li>
-                  <li>Implemented a robust backend system to securely manage user data, track progress, and optimize performance for a seamless fitness tracking experience.</li>
+                  <li>Implemented a robust back-end system to securely manage user data, track progress, and optimize performance for a seamless fitness tracking experience.</li>
                 </ul>
               </div>
             </div>
