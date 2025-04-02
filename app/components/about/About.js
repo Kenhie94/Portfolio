@@ -131,7 +131,7 @@ export default function About() {
           <Carousel showThumbs={false} showStatus={false} infiniteLoop>
             {/* Image 1 */}
             <div className="imageContainer">
-              <img src="/images/Resume.jpg" alt="Another Certification" className="carouselImage" />
+              <img src="/images/Resume_1.jpg" alt="Another Certification" className="carouselImage" />
             </div>
 
             {/* Image 2 */}
