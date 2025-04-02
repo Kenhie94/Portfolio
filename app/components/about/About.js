@@ -120,7 +120,7 @@ export default function About() {
               <div className="timelineIcon"></div>
               <div className="timelineContent">
                 <h3>
-                  UX/UI Software Development Boot Camp <span className="company">@University of Irvine</span>
+                  UX/UI Software Development Boot Camp <span className="company">@University of California, Irvine</span>
                 </h3>
                 <p className="date">August 2024 - November 2024</p>
               </div>
